@@ -26,3 +26,9 @@ void loop() {
     Serial1.write(inByte);
   }
 }
+
+void test(){
+  if (1+2==4){}
+  else {return 0;}
+}
+// тут будет класс обработки протокола Андрея
